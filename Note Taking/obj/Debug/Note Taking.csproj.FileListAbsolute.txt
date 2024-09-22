@@ -1,0 +1,10 @@
+C:\Users\Dashrath\source\repos\Note Taking\Note Taking\bin\Debug\Note Taking.exe.config
+C:\Users\Dashrath\source\repos\Note Taking\Note Taking\bin\Debug\Note Taking.exe
+C:\Users\Dashrath\source\repos\Note Taking\Note Taking\bin\Debug\Note Taking.pdb
+C:\Users\Dashrath\source\repos\Note Taking\Note Taking\obj\Debug\Note Taking.csproj.AssemblyReference.cache
+C:\Users\Dashrath\source\repos\Note Taking\Note Taking\obj\Debug\Note_Taking.Form1.resources
+C:\Users\Dashrath\source\repos\Note Taking\Note Taking\obj\Debug\Note_Taking.Properties.Resources.resources
+C:\Users\Dashrath\source\repos\Note Taking\Note Taking\obj\Debug\Note Taking.csproj.GenerateResource.cache
+C:\Users\Dashrath\source\repos\Note Taking\Note Taking\obj\Debug\Note Taking.csproj.CoreCompileInputs.cache
+C:\Users\Dashrath\source\repos\Note Taking\Note Taking\obj\Debug\Note Taking.exe
+C:\Users\Dashrath\source\repos\Note Taking\Note Taking\obj\Debug\Note Taking.pdb
